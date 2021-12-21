@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wisesa/robofriends/static/css/main.5bf3750b.chunk.css",
+    "main.js": "/wisesa/robofriends/static/js/main.dc2108d0.chunk.js",
+    "main.js.map": "/wisesa/robofriends/static/js/main.dc2108d0.chunk.js.map",
+    "runtime-main.js": "/wisesa/robofriends/static/js/runtime-main.037b4b5a.js",
+    "runtime-main.js.map": "/wisesa/robofriends/static/js/runtime-main.037b4b5a.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/wisesa/robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d9a848d9.chunk.js": "/wisesa/robofriends/static/js/2.d9a848d9.chunk.js",
+    "static/js/2.d9a848d9.chunk.js.map": "/wisesa/robofriends/static/js/2.d9a848d9.chunk.js.map",
+    "static/js/3.d67f5da3.chunk.js": "/wisesa/robofriends/static/js/3.d67f5da3.chunk.js",
+    "static/js/3.d67f5da3.chunk.js.map": "/wisesa/robofriends/static/js/3.d67f5da3.chunk.js.map",
+    "index.html": "/wisesa/robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/wisesa/robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.5bf3750b.chunk.css.map": "/wisesa/robofriends/static/css/main.5bf3750b.chunk.css.map",
+    "static/js/2.d9a848d9.chunk.js.LICENSE.txt": "/wisesa/robofriends/static/js/2.d9a848d9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wisesa/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037b4b5a.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d9a848d9.chunk.js",
+    "static/css/main.5bf3750b.chunk.css",
+    "static/js/main.dc2108d0.chunk.js"
+  ]
+}
